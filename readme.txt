@@ -1,9 +1,9 @@
 
 Plugin Name: WooCommerce Stock Notifier
 Plugin URI:
-Description: A plugin email Notifier when product out of stock.
+Description: A plugin that Nofifier by email to customer when product is out of stock.
 Version: 1
-Author: GIS Dev
+Author: Ravi P.
 
 =================================
 ShortCode List : 
